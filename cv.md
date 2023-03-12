@@ -36,9 +36,13 @@ I know how to work in a team. I believe that success of any project is the resul
 ---
 
 0 == false // -> true
+
 '' == false // -> true
+
 NaN === NaN // -> false
+
 true == 'true' // -> true
+
 false == 'false' // -> false
 
 ### Experience
