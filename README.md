@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/Texterly/rsschool-cv/blob/gh-pages/cv.md
+https://github.com/Texterly/rsschool-cv/tree/rsschool-cv-html
